@@ -1,0 +1,7 @@
+
+ECHO START OLLUDA
+
+python setup//OLLUDA.py
+
+ECHO STOP OLLUDA
+PAUSE
